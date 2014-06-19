@@ -7,6 +7,4 @@ Try to commit something
 
 Try to use fetch and merge
 
-Try to use pull request
-
-
+Try to use pull request, git branch develop
